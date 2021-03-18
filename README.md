@@ -3,4 +3,5 @@
 ***Made the list interactive***
 <br>
 <br>
-![recyclerviewTAsk3](https://user-images.githubusercontent.com/47735236/111529491-5074ca80-878a-11eb-9311-4e7c5e27b677.gif)
+![recyclerviewTAsk3](https://user-images.githubusercontent.com/47735236/111569849-a7e75a80-87cb-11eb-9df8-4fbfa416d03f.gif)
+
