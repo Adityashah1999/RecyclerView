@@ -4,4 +4,5 @@
 <br>
 <br>
 
-![recyclerTask2](https://user-images.githubusercontent.com/47735236/111528949-b57bf080-8789-11eb-95a7-2daf42a9e216.png)
+![task2Recycler](https://user-images.githubusercontent.com/47735236/111569730-622a9200-87cb-11eb-9c76-aeb81564d4fb.gif)
+
