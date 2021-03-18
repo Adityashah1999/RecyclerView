@@ -64,6 +64,7 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.WordVi
 
     @Override
     public int getItemCount() {
+
         return mWordList.size();
     }
 }
